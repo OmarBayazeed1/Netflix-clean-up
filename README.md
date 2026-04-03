@@ -13,11 +13,11 @@ This project is part of the data analysis learning path on [roadmap.sh](https://
 ## Project Roadmap
 
 This work follows the steps outlined in the Data Analyst learning path. You can find the project page here:
-[https://roadmap.sh/projects/netflix-dataset-cleaning](https://roadmap.sh/projects/netflix-dataset-cleaning)
+[https://roadmap.sh/projects/cleaning-netflix-dataset]
 
 ## Data Source
 
 The data used in this project is the Netflix Titles dataset from Kaggle.
-- **Kaggle URL:** [Link to the Netflix dataset on Kaggle]
 
-## Repository Structure
+
+
